@@ -1,5 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-
-Sitemap: https://bokepome.pages.dev/sitemap.xml
